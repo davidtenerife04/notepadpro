@@ -2,7 +2,6 @@
 <img width="1437" height="931" alt="image" src="https://github.com/user-attachments/assets/4ae5a9f0-f7bf-493a-8e64-171bdc179234" />
 
 NotepadX Pro 2.0 es un editor de código avanzado desarrollado en Python con PyQt6 y QScintilla, diseñado para programadores que necesitan una herramienta ligera pero potente sin renunciar a las características de un IDE completo.
-NotepadX Pro 2.0 es un editor de código avanzado desarrollado en Python con PyQt6 y QScintilla, diseñado para programadores que necesitan una herramienta ligera pero potente sin renunciar a las características de un IDE completo.
 
 Características principales
 

@@ -20,3 +20,4 @@ Tema Catppuccin Mocha con fuente JetBrains Mono.
 
 Requisitos
 Python 3.10+ · PyQt6 · PyQt6-QScintilla
+<img width="1437" height="931" alt="image" src="https://github.com/user-attachments/assets/4ae5a9f0-f7bf-493a-8e64-171bdc179234" />

@@ -97,9 +97,9 @@ pip install PyQt6 QScintilla
 ### Ejecutar
 
 ```bash
-git clone https://github.com/tu-usuario/notepadx-pro.git
+git clone https://github.com/davidtenerife04/notepadpro.git
 cd notepadx-pro
-python notepad_pro.py
+Doble click al archivo .exe 
 ```
 
 ---
